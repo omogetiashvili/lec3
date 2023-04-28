@@ -1,0 +1,36 @@
+h1{
+  color: blue;
+  background-color: yellow;
+
+
+}
+
+.merc {
+  width: 300px;
+
+}
+
+#text2 {
+
+  color: red;
+
+
+
+
+}
+
+.lightBlue {
+
+
+  color: green;
+
+
+
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 2px solid black;
+
+}
+
